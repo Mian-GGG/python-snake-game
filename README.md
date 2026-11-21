@@ -10,6 +10,8 @@ The player controls a snake that moves around the game window, collecting food t
 
 The project was developed to practise object-oriented programming, working with Python classes, handling keyboard input, and implementing basic game mechanics.
 
+<img width="384" height="240" alt="snakegamegif" src="https://github.com/user-attachments/assets/64984467-6125-4dcd-aafd-e5171dad56d9" />
+
 ## Features
 
 - **Snake Movement:** Control the snake using the keyboard arrow keys.
@@ -106,5 +108,3 @@ python main.py
 This project was developed as a practical exercise in Python programming, focusing on object-oriented design and implementing the mechanics of a simple interactive game.
 
 It provided an opportunity to work with multiple classes, manage game objects, handle user input, and implement a persistent high-score system using file handling.
-
-<img width="384" height="240" alt="snakegamegif" src="https://github.com/user-attachments/assets/64984467-6125-4dcd-aafd-e5171dad56d9" />
